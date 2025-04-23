@@ -1,2 +1,2 @@
 # Myntra
-6:58:41 sec lecture youtube /kg coding
+07:13:00 sec lecture youtube /kg coding
